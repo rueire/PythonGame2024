@@ -2,10 +2,11 @@
 My first python text adventure game</br>
 remake is being planned
 
-<u>Needed: </u>
-  Python3
+Needed:</br>
+  Python3</br>
   CMD
-</br><u>Start:</u>
+  
+Start:</br>
 python main.py
 
 Game idea: </br>
