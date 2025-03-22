@@ -1,13 +1,13 @@
 # PythonGame2024
-My first python text adventure game</br>
+Python text adventure game</br>
 remake is being planned
 
 Needed:</br>
   Python3</br>
-  CMD
+  cmd
   
 Start:</br>
-python main.py
+python main.py in cmd to play the game
 
 Game idea: </br>
 Find necessary items to help you leave the place.
