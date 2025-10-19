@@ -11,6 +11,7 @@ def take_item(item):
     if item not in loc.area[loc.currentRoom]['items']:
         print('that item is not here')
 
+    idx = loc.area[loc.currentRoom]['items'].index(item)
     poppedItem = loc.area[loc.currentRoom]['items'].pop(idx)
     inventory.append(poppedItem)
 
