@@ -19,7 +19,8 @@ def location():
         print(f"\nYou're in: {currentRoom}")
         print("You can move to:")
         for i in area[currentRoom].keys():
-                print(i)
+                if i != 'items':
+                      print(i)
         print('')
 
 # Areas/ Rooms
