@@ -1,6 +1,6 @@
-# PythonGame2024
-Python text adventure game</br>
-remake is being planned
+# PythonGame
+Python text adventure game 2024</br>
+UPDATED 2025
 
 Needed:</br>
   Python3</br>
